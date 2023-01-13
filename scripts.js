@@ -1,4 +1,4 @@
 const heading = document.querySelector(".heading")
 heading.addEventListener("mouseover", function(event){
-    heading.style.fontSize = "50px"
+    heading.style.fontSize = "2.3rem"
 })
